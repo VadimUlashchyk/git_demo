@@ -14,9 +14,6 @@ on this their chosen battle field
 form the lines
 shield by shield
 
-сформировать линии
-щит за щитом
-
 new content akira
 and hea!
 
@@ -27,3 +24,6 @@ and hea!
 8888888888888888
 
 000000000000000000
+
+111111111111111
+444444444444444
